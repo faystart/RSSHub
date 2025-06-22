@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://docs.rsshub.app/img/logo.png" alt="RSSHub" width="100">
-</p>
+
 <h1 align="center">RSSHub</h1>
 
 > 🍰 Everything is RSSible
